@@ -47,7 +47,7 @@ public:
     void debug(char* m1, double m2,   char* m3="", char* m4="");
     void debug(char* m1, double m2,   char* m3,    double m4);
     void debug(char* m1, double m2,   char* m3,    double m4, char* m5, double m6);
-}
+};
 
 #endif
 
